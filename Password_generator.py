@@ -11,7 +11,6 @@ print('''Choose a number for the type of character set for your password from th
 
 characterList = ""
 
-# Getting character set for password
 while True:
     choice = int(input("Pick a number "))
     if choice == 1:
